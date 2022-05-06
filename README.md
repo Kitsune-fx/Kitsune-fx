@@ -6,8 +6,8 @@
 **CAMT student**  
 #
 
-![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshizaki-iori&langs_count=8)  
+![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=h0shizaki&langs_count=8)  
 
 #
-## My Goal is become SSR character 🤣  
+## Aim to become SSR character 🤣  
 <!-- ![fate](https://c.tenor.com/aiqiG0PwxUAAAAAd/artoria-lostbelt.gif) -->
