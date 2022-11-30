@@ -1,13 +1,40 @@
-![mashu](https://64.media.tumblr.com/60890457ba697abad499e0597b436595/0b78c746fc86a1f1-55/s540x810/7ea07aefa6172dc92937aa9d6af134d1b034ccce.gifv)  
-# Hello I am  
-**Just a Fate series lover**  
-**Just a weeb**  
-**Just a salty gacha game player**  
-**CAMT student**  
-#
+# Oh hi!
+<div align="left" style="margin:1rem">
+  I am studying 2nd year of Software Engineering at CAMT CMU.  
+  <img align="right" src="https://media.tenor.com/zgM2kUGp6hQAAAAC/fate-grand-order-waver.gifv" width="300" >
+  <h3>Hobbies</h3>
+  <ul>
+    <li>Reading</li>
+    <li>Playing gacha game</li>
+    <li>Music</li>
+    <li><b>Anime!</b></li>
+    <li>Also coding</li>
+  </ul>
+  <br>
+      I love to reading mythology, history book and also the <b>light novel</b>.
+  <br>
+</div>
 
-![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=h0shizaki&langs_count=8)  
 
-#
-## Aim to become SSR character 🤣  
-<!-- ![fate](https://c.tenor.com/aiqiG0PwxUAAAAAd/artoria-lostbelt.gif) -->
+
+# Skill
+<img src="https://www.codewars.com/users/hoshizaki/badges/micro">
+<br>
+
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://media.tenor.com/A_gEc3Bf_pUAAAAC/fate-series-anime.gifv">
+
+
+**Familiar programming languages**
+* Javascript and Typescript
+* Java
+* Go
+
+**Familiar tools**
+* SQL database
+* Docker
+* Git
+
+
+### Contact
+Discord: Admiral K#1976
