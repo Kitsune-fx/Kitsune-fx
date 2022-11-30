@@ -11,7 +11,7 @@
     <li>Also coding</li>
   </ul>
   <br>
-      I love to reading mythology, history book and also the <b>light novel</b>.
+      I love to reading mythology, historical books and also the <b>light novels</b>.
   <br>
 </div>
 
