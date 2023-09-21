@@ -1,6 +1,6 @@
 # Oh hi!
 <div align="left" style="margin:1rem">
-  I am studying 2nd year of Software Engineering at CAMT CMU.  
+  I am studying 3rd year of Software Engineering at CAMT CMU.  
   <img align="right" src="https://media.tenor.com/zgM2kUGp6hQAAAAC/fate-grand-order-waver.gifv" width="300" >
   <h3>Hobbies</h3>
   <ul>
